@@ -1,4 +1,4 @@
-![javiermorenoco](https://pbs.twimg.com/profile_banners/1897064366589239296/1741271466/1500x500)
+![javiermorenoco](https://pbs.twimg.com/profile_images/2031182424886095874/vMziWc1K_400x400.png)
 ---
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm [Javier Moreno](https://javiermoreno.co) from Bogotá, Colombia!
 
