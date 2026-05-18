@@ -32,4 +32,3 @@ I’m a self-driven frontend developer who brings structure and clarity to fast-
 </a>
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javiermorenoco&hide=issues&show_icons=true&theme=radical)
