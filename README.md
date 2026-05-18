@@ -27,7 +27,7 @@ I’m a self-driven frontend developer who brings structure and clarity to fast-
 <a href="https://twitter.com/javiermorenoco" target="_blank" rel="noopener">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Javier Moreno Twitter Profile" height="20" width="20">
 </a> &nbsp &nbsp
-<a href="https://platzi.com/p/jmoreno.co/" target="_blank" rel="noopener">
+<a href="https://platzi.com/p/javiermoreno.co/" target="_blank" rel="noopener">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Javier Moreno Platzi Profile" height="20" width="20">
 </a>
 </p>
